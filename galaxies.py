@@ -1,0 +1,1 @@
+GALAXIES=['Milky Way','Andromeda','Triangulum']

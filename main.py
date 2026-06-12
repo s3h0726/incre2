@@ -1,0 +1,1 @@
+print('Galaxy Conquest Ultimate 프로젝트 뼈대. Streamlit 버전으로 확장 가능')

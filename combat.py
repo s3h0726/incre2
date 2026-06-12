@@ -1,0 +1,1 @@
+def battle(): pass
